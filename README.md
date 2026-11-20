@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**ArtMMS/ArtMMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey! I'm Arthur, a Computer Science student based in Brazil 🇧🇷, focused on software development.
 
-Here are some ideas to get you started:
+## Featured Projects
+- **[LANShare](https://github.com/ArtMMS/LANShare)** — LAN screen sharing app (Rust + C#/Avalonia)
+- **[Archtype](https://github.com/ArtMMS/Archtype)** — 2D/3D game engine written in C with Vulkan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,rust,cs,py,ts,js,html,css,nodejs,cloudflare,git&perline=12" />
+</p>
+
+## Contact
+
+- 💼 LinkedIn: [Arthur Marins](https://www.linkedin.com/in/arthur-marins-1a0423279/)
+- 📧 Email: artmarins24@gmail.com
